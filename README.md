@@ -5,3 +5,8 @@
 - Go To <a href="https://colab.research.google.com/#create=true">Google Colab</a>
 - Login With Your Google Account.
 - Copy & Paste The Following Code In The Prompt (Next To The Play Button)<br>! wget https://raw.githubusercontent.com/Sl-Sanda-Ru/RDP/main/RDP.sh<br>! chmod +x RDP.sh<br>! ./RDP.sh
+- Click Play Button And Wait.
+- Then Click On The Link Which Is "https://remotedesktop.google.com/headless"
+- Click Next And Authorize
+- Copy Debian For Linux (No 3)
+- Paste It And Click Enter
