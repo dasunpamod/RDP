@@ -6,6 +6,4 @@
 - Login With Your Google Account.
 - Copy & Paste The Following Code In The Prompt (Next To The Play Button)
 <br>
-! wget https://raw.githubusercontent.com/Sl-Sanda-Ru/RDP/main/RDP.sh
-! chmod +x RDP.sh
-! ./RDP.sh
+! wget https://raw.githubusercontent.com/Sl-Sanda-Ru/RDP/main/RDP.sh<br>! chmod +x RDP.sh<br>! ./RDP.sh
