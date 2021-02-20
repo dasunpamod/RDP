@@ -10,3 +10,4 @@
 - Click Next And Authorize
 - Copy Debian For Linux (No 3)
 - Paste It And Click Enter
+- Set A Password
